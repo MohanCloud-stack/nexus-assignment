@@ -1,7 +1,7 @@
 provider "aws" {
   region ="ap-south-1"
-  access_key = "AKIA45535TLTLG6KG2XH"
-  secret_key = "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"
+  access_key = ""
+  secret_key = ""
 }
 # locals {
 #   region = data.aws_region.current.name
